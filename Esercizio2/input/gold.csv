@@ -1,0 +1,60 @@
+Frame name, Bond_maturation, Wordnet Synset, bond.n.02
+Frame elements, Financial_instrument, Wordnet Synset, legal_document.n.01
+Frame elements, Time, Wordnet Synset, time.n.02
+Frame elements, Issuer, Wordnet Synset, issuer.n.01
+Frame elements, Holder, Wordnet Synset, holder.n.02
+Frame elements, Value, Wordnet Synset, value.n.02
+Frame elements, Principle, Wordnet Synset, principle.n.03
+Frame lexical unit, mature, Wordnet Synset, mature.v.03
+Frame lexical unit, maturity, Wordnet Synset, maturity.n.03
+Frame lexical unit, endow, Wordnet Synset, endow.v.02
+Frame name, Escaping, Wordnet Synset, escape.v.01
+Frame elements, Escapee, Wordnet Synset, escapee.n.01
+Frame elements, Goal, Wordnet Synset, goal.n.01
+Frame elements, Means, Wordnet Synset, means.n.01
+Frame elements, Manner, Wordnet Synset, manner.n.01
+Frame elements, Undesirable_location, Wordnet Synset, location.n.01
+Frame elements, Speed, Wordnet Synset, rush.v.01
+Frame elements, Vehicle, Wordnet Synset, vehicle.n.01
+Frame elements, Time, Wordnet Synset, time.n.02
+Frame elements, Purpose, Wordnet Synset, purpose.n.01
+Frame elements, Place, Wordnet Synset, topographic_point.n.01
+Frame elements, Depictive, Wordnet Synset, manner.n.01
+Frame elements, Path, Wordnet Synset, path.n.02
+Frame elements, Degree, Wordnet Synset, degree.n.07
+Frame elements, Distance, Wordnet Synset, distance.n.03
+Frame lexical unit, escape, Wordnet Synset, escape.n.01
+Frame lexical unit, evacuate, Wordnet Synset, evacuate.v.01
+Frame lexical unit, get out, Wordnet Synset, get.v.11
+Frame lexical unit, bust out, Wordnet Synset, tear.v.01
+Frame lexical unit, fly the coop, Wordnet Synset, fly.v.02
+Frame lexical unit, scarper, Wordnet Synset, escape.n.02
+Frame lexical unit, get free, Wordnet Synset, get.v.11
+Frame lexical unit, get loose, Wordnet Synset, get.v.11
+Frame lexical unit, evacuation, Wordnet Synset, escape.n.02
+Frame name, Bearing_arms, Wordnet Synset, bear.v.01
+Frame elements, Degree, Wordnet Synset, station.v.01
+Frame elements, Weapon, Wordnet Synset, station.v.01
+Frame elements, Protagonist, Wordnet Synset, time.v.02
+Frame elements, Place, Wordnet Synset, topographic_point.n.01
+Frame lexical unit, armed, Wordnet Synset, arm.v.01
+Frame lexical unit, unarmed, Wordnet Synset, arm.v.01
+Frame lexical unit, weaponless, Wordnet Synset, arm.v.01
+Frame lexical unit, bear arms, Wordnet Synset, arm.v.01
+Frame lexical unit, pack, Wordnet Synset, arm.v.01
+Frame lexical unit, carry, Wordnet Synset, arm.v.01
+Frame lexical unit, nuclear, Wordnet Synset, arm.v.01
+Frame lexical unit, gunman, Wordnet Synset, arm.v.01
+Frame lexical unit, draw, Wordnet Synset, arm.v.01
+Frame name, Commutative_process, Wordnet Synset, process.v.02
+Frame elements, Term1, Wordnet Synset, footing.n.01
+Frame elements, Term2, Wordnet Synset, condition.n.07
+Frame elements, Terms, Wordnet Synset, footing.n.01
+Frame lexical unit, add, Wordnet Synset, add.v.01
+Frame lexical unit, multiply, Wordnet Synset, multiply.v.01
+Frame lexical unit, addition, Wordnet Synset, add.v.01
+Frame lexical unit, multiplication, Wordnet Synset, add.v.01
+Frame name, Locative_scenario, Wordnet Synset, locative_role.n.01
+Frame elements, Figure, Wordnet Synset, figure.n.01
+Frame elements, Ground, Wordnet Synset, figure.n.01
+Frame elements, Figures, Wordnet Synset, digit.n.01

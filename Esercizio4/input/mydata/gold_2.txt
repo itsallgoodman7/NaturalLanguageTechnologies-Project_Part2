@@ -1,0 +1,50 @@
+terremoto	scossa	3.2
+patrimonio	azione	2.0
+ebreo	Gerusalemme	3.4
+nuvolosità	previsione	2.9
+dizionario	enciclopedia	3.5
+zecca	museo	0.2
+sedia	sgabello	2.9
+spagnolo	umidità	0.1
+lattina	bottiglia	2.5
+mosca	formica	2.4
+mito	satira	2.3
+centro della città	autobus	1.5
+coda	Boeing 747-200	1.3
+opera d'arte	artista	2.8
+NATO	alleanza	1.8
+re	sovrano	3.4
+ritmo	cadenza	2.9
+Alexander Fleming	penicillina	3.4
+flauto	musica	2.8
+airone cenerino	lago	0.9
+viscosità	spruzzo	0.4
+hardware	case	2.6
+anello	fidanzamento	1.9
+latino	tedesco	2.5
+classe operaia	fabbrica	2.0
+Shakespeare	Dickens	2.5
+banconota	prete	0.8
+strumento	lavoro	1.4
+cinghiale nano	suidi	2.1
+suffragio	uscita	1.6
+stella	luminosità	2.1
+trota	chitarra	0.1
+dollaro	milionario	1.8
+cifra	numero	3.5
+burrasca	coperta	0.4
+Obama	Clinton	3.0
+personaggio secondario	film	2.9
+Juventus	Bayern Monaco	2.9
+cambiamento climatico	precipitazione	1.8
+IA	batteria	0.2
+capolavoro	Gioconda	3.0
+crimine	aggressione	3.1
+incoronazione	acqua	0.4
+vocalista	pentagramma	0.5
+spareggio	pallacanestro	2.8
+forze armate	difesa	2.0
+lago	nuvola	1.8
+monastero	doccia	0.5
+lingua madre	lingua	3.4
+porto	incarto	0.4
